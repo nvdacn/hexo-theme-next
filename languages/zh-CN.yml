@@ -10,6 +10,11 @@ menu:
   categories: 分类
   tags: 标签
   about: 关于
+  changes: NVDA更新日志
+  keyCommands: NVDA快捷键指南
+  userGuide: NVDA用户指南
+  downloads: 下载NVDA
+  developer-notice: 开发者须知
   search: 搜索
   schedule: 日程表
   sitemap: 站点地图
